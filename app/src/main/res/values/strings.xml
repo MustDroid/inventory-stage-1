@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InventoryStage1</string>
+
+    <string name="action_insert_data">Insert Data</string>
+
+    <string name="action_delete_all_entries">Delete All</string>
+
+
+    <string name="editor_activity_title_new_book">Add a Book</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="hint_column_name">Name</string>
+
+    <string name="hint_column_quantity">Quantity</string>
+
+    <string name="hint_column_price">Price</string>
+
+    <string name="hint_column_supplier_name">Supplier Name</string>
+
+
+    <string name="label_supplier_phone_number">SUPPLIER PHONE NUMBER:</string>
+    <string name="editor_saving_error">Error while saving book!</string>
+    <string name="editor_saving_success">Book saved with row id:</string>
+    <string name="editor_saving_invalid_number_format">Invalid number format entered!</string>
+    <string name="editor_saving_unknown_error">Unknown error occurred while saving book!</string>
+    <string name="label_supplier_name">SUPPLIER NAME:</string>
+    <string name="label_price">PRICE:</string>
+    <string name="label_quantity">QUANTITY:</string>
+    <string name="label_name">NAME:</string>
+
+</resources>
